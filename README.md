@@ -65,6 +65,6 @@ project_mlops/
    ```sh
    python scripts/predict.py
    ```
-## Где взять test.csv и модель
+## Где взять test_processed.csv и модель
 - **test_processed.csv**: https://drive.google.com/file/d/1JojlNmhOaKfnaAezB1fxUclDFnmsogH0/view?usp=sharing
 - **catboost_model.cbm**: https://drive.google.com/file/d/12ByZn00cUYWrQXP03ffjHk0L1z6EGl8C/view?usp=sharing
